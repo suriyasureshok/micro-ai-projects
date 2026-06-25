@@ -122,3 +122,4 @@ micro-ai-projects/
 The goal of this repository is to build production-level intuition for modern AI engineering through small, focused implementations.
 
 Every project is designed to be completed in a single sitting while exploring one specific engineering concept. Together, these projects form a growing reference for backend engineers, AI engineers, and anyone interested in the architecture behind modern AI systems.
+
