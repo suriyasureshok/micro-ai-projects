@@ -59,7 +59,7 @@ micro-ai-projects/
 | #  | Project                                                                                                  | Status |
 | -- | -------------------------------------------------------------------------------------------------------- | :----: |
 | 01 | [Strict Schema Enforcement with Pydantic AI](./month-01/week-01/project-01-schema-enforcement/README.md) |    ✅   |
-| 02 | Zod Validation & Vercel AI SDK                                                                           |    ⏳   |
+| 02 | [Zod Validation & Vercel AI SDK](./month-01/week-01/project-02-zod-validation/README.md)                                                                           |    ✅   |
 | 03 | Native Tool Calling Foundations                                                                          |    ⏳   |
 | 04 | Dependency Injection in Type-Safe Agents                                                                 |    ⏳   |
 | 05 | Coming Soon                                                                                              |    ⏳   |
