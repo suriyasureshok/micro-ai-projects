@@ -1,0 +1,13 @@
+[project]
+name = "project-04-dependency-injection"
+version = "0.1.0"
+description = "Demonstrates dependency injection in Pydantic AI using deps_type and RunContext for stateless, type-safe AI agents."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.138.1",
+    "pydantic>=2.13.4",
+    "pydantic-ai>=2.0.0",
+    "python-dotenv>=1.2.2",
+    "uvicorn>=0.49.0",
+]
