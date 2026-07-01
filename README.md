@@ -69,7 +69,7 @@ micro-ai-projects/
 
 | #  | Project                                  | Status |
 | -- | ---------------------------------------- | :----: |
-| 06 | Initializing a FastMCP Server            |    ⏳   |
+| 06 | [Initializing a FastMCP Server](./month-01/week-02/project-05-initializing-fastmcp-server/README.md)            |    ✅   |
 | 07 | Progressive Disclosure via MCP Resources |    ⏳   |
 | 08 | Programmatic MCP Client Architecture     |    ⏳   |
 | 09 | End-to-End Distributed MCP Orchestration |    ⏳   |
