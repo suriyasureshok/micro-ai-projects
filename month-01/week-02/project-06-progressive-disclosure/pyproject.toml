@@ -1,0 +1,12 @@
+[project]
+name = "project-06-progressive-disclosure"
+version = "0.1.0"
+description = "Demonstrates MCP Resources and Prompts using FastMCP, enabling progressive disclosure through dynamic context retrieval and reusable prompt templates."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp>=2.11.1",
+]
+
+[tool.uv]
+package = false
