@@ -1,0 +1,10 @@
+[project]
+name = "project-07-programmatic-mcp-client"
+version = "0.1.0"
+description = "A programmatic MCP client using FastMCP to discover and invoke tools without an LLM."
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = [
+    "fastmcp>=2.11.3",
+]
