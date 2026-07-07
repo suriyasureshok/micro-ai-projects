@@ -72,7 +72,7 @@ micro-ai-projects/
 | 05 | [Initializing a FastMCP Server](./month-01/week-02/project-05-initializing-fastmcp-server/README.md)            |    ✅   |
 | 06 | [Progressive Disclosure via MCP Resources](./month-01/week-02/project-06-progressive-disclosure/README.md) |    ✅   |
 | 07 | [Programmatic MCP Client Architecture](./month-01/week-02/project-07-programmatic-mcp-client/README.md)     |    ✅   |
-| 08 | End-to-End Distributed MCP Orchestration |    ⏳   |
+| 08 | [End-to-End Distributed MCP Orchestration](./month-01/week-02/project-08-e2e-orchestration/README.md) |   ✅   |
 
 ---
 
