@@ -73,6 +73,7 @@ micro-ai-projects/
 | 06 | [Progressive Disclosure via MCP Resources](./month-01/week-02/project-06-progressive-disclosure/README.md) |    ✅   |
 | 07 | [Programmatic MCP Client Architecture](./month-01/week-02/project-07-programmatic-mcp-client/README.md)     |    ✅   |
 | 08 | [End-to-End Distributed MCP Orchestration](./month-01/week-02/project-08-e2e-orchestration/README.md) |   ✅   |
+| 09 | [Semantic Routing](./month-01/week-02/project-09-semantic-routing/README.md)                       |    ✅   |
 
 ---
 
@@ -80,11 +81,12 @@ micro-ai-projects/
 
 | #  | Project                                | Status |
 | -- | -------------------------------------- | :----: |
-| 11 | Semantic Routing                       |    ⏳   |
-| 12 | Durable Execution & Fallback Mechanics |    ⏳   |
-| 13 | Array-Based Context Engineering        |    ⏳   |
-| 14 | Sliding Window & Summarization         |    ⏳   |
-| 15 | Coming Soon                            |    ⏳   |
+| 10 | Durable Execution & Fallback Mechanics |    ⏳   |
+| 11 | Array-Based Context Engineering        |    ⏳   |
+| 12 | Sliding Window & Summarization         |    ⏳   |
+| 13 | Promptfoo Assertion Testing            |    ⏳   |
+| 14 | LLM-as-a-Judge                         |    ⏳   |
+| 15 | Unit Testing AI                        |    ⏳   |
 
 ---
 
@@ -92,9 +94,9 @@ micro-ai-projects/
 
 | #  | Project                       | Status |
 | -- | ----------------------------- | :----: |
-| 16 | Promptfoo Assertions          |    ⏳   |
-| 17 | DeepEval Unit Testing         |    ⏳   |
-| 18 | AI Guardrails                 |    ⏳   |
+| 16 | Evaluating RAG                |    ⏳   |
+| 17 | Deterministic Input Guardrails|    ⏳   |
+| 18 | Persistent PII Detection      |    ⏳   |
 | 19 | Output Validation             |    ⏳   |
 | 20 | In-Memory Vector Search & RAG |    ⏳   |
 
