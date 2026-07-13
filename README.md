@@ -81,7 +81,7 @@ micro-ai-projects/
 
 | #  | Project                                | Status |
 | -- | -------------------------------------- | :----: |
-| 10 | Durable Execution & Fallback Mechanics |    ⏳   |
+| 10 | [Durable Execution & Fallback Mechanics](./month-01/week-03/project-10-durable-execution/README.md) |    ✅   |
 | 11 | Array-Based Context Engineering        |    ⏳   |
 | 12 | Sliding Window & Summarization         |    ⏳   |
 | 13 | Promptfoo Assertion Testing            |    ⏳   |
