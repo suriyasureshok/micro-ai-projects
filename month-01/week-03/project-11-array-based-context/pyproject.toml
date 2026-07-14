@@ -1,0 +1,10 @@
+[project]
+name = "project-11-array-based-context"
+version = "0.1.0"
+description = "Manual array-based conversational context management for stateless AI models."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic-ai>=2.9.0",
+    "python-dotenv>=1.2.2",
+]

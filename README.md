@@ -82,7 +82,7 @@ micro-ai-projects/
 | #  | Project                                | Status |
 | -- | -------------------------------------- | :----: |
 | 10 | [Durable Execution & Fallback Mechanics](./month-01/week-03/project-10-durable-execution/README.md) |    ✅   |
-| 11 | Array-Based Context Engineering        |    ⏳   |
+| 11 | [Array-Based Context Engineering](./month-01/week-03/project-11-array-based-context/README.md)        |    ✅   |
 | 12 | Sliding Window & Summarization         |    ⏳   |
 | 13 | Promptfoo Assertion Testing            |    ⏳   |
 | 14 | LLM-as-a-Judge                         |    ⏳   |

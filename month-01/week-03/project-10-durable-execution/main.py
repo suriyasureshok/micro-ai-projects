@@ -28,6 +28,8 @@ async def generate(request: PromptRequest) -> PromptResponse:
         response=result.output,
     )
 
+
 if __name__ == "__main__":
     import uvicorn
+
     uvicorn.run(app, host="localhost", port=8080)
